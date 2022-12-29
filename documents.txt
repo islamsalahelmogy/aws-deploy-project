@@ -1,0 +1,8 @@
+
+eb.exe setenv POSTGRES_USERNAME=postgres POSTGRES_PASSWORD=udacitydbpass POSTGRES_DB=udacitydb POSTGRES_PORT=5432 PORT=8080 POSTGRES_HOST=udacitydb.carefnboixpd.us-east-1.rds.amazonaws.com  AWS_REGION=us-east-1  JWT_SECRET=secret AWS_BUCKET='' AWS_PROFILE='' URL=''
+
+
+
+
+
+http://udagramapibucket.s3-website-us-east-1.amazonaws.com
